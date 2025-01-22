@@ -37,14 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "dropdown-publications",
-              title: "publications",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "dropdown-projects",
+        },{id: "dropdown-projects",
               title: "projects",
               description: "",
               section: "Dropdown",
@@ -104,7 +97,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
-          description: "with background image",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
@@ -132,21 +125,6 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{
         id: 'social-email',
         title: 'email',
@@ -160,13 +138,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/polpoxx6416", "_blank");
-        },
-      },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
         },
       },{
         id: 'social-rss',
