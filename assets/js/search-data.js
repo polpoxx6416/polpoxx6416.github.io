@@ -62,11 +62,11 @@ ninja.data = [{
           window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
         
       },
-    },{id: "post-jupyter",
+    },{id: "post-a-post-with-code",
       
-        title: "Jupyter",
+        title: "a post with code",
       
-      description: "",
+      description: "an example of a blog post with some code",
       section: "Posts",
       handler: () => {
         
