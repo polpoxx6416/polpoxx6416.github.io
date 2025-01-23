@@ -62,11 +62,11 @@ ninja.data = [{
           window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
         
       },
-    },{id: "post-a-post-with-code",
+    },{id: "post-a-post-with-a-notebook",
       
-        title: "a post with code",
+        title: "a post with a notebook",
       
-      description: "an example of a blog post with some code",
+      description: "an example of a blog post with a notebook in it",
       section: "Posts",
       handler: () => {
         
@@ -136,6 +136,11 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
+            },},{id: "projects-project-1",
+          title: 'project 1',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/resources_project/";
             },},{
         id: 'social-email',
         title: 'email',
