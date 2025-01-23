@@ -10,4 +10,4 @@ related_publications: true
 
 This one-pager was done during my last year at ESCP in market finance specialization in order to make sovereign wealth funds easier to understand.
 
-[View PDF](../asset/pdf/one_pager_fonds_souverains.pdf)
+[View PDF](../../asset/pdf/one_pager_fonds_souverains.pdf)
