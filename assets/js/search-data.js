@@ -51,7 +51,337 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
+            },{id: "post-new-book-sorting-algorithm-almost-reaches-perfection",
+      
+        title: 'New Book-Sorting Algorithm Almost Reaches Perfection <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://www.quantamagazine.org/new-book-sorting-algorithm-almost-reaches-perfection-20250124/", "_blank");
+        
+      },
+    },{id: "post-show-hn-cs16-css-css-library-based-on-cs-1-6-ui",
+      
+        title: 'Show HN: Cs16.css – CSS library based on CS 1.6 UI <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://cs16.samke.me", "_blank");
+        
+      },
+    },{id: "post-how-i-use-home-assistant-in-2025",
+      
+        title: 'How I Use Home Assistant in 2025 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://vpetersson.com/2025/01/22/how-i-use-home-assistant-in-2025.html", "_blank");
+        
+      },
+    },{id: "post-threlte-8",
+      
+        title: 'Threlte 8 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://threlte.xyz/blog/threlte-8", "_blank");
+        
+      },
+    },{id: "post-every-system-is-a-log-avoiding-coordination-in-distributed-applications",
+      
+        title: 'Every System is a Log: Avoiding coordination in distributed applications <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/", "_blank");
+        
+      },
+    },{id: "post-lightpanda-the-headless-browser-designed-for-ai-and-automation",
+      
+        title: 'Lightpanda: The headless browser designed for AI and automation <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://github.com/lightpanda-io/browser", "_blank");
+        
+      },
+    },{id: "post-ui-is-hell-four-function-calculators",
+      
+        title: 'UI is hell: four-function calculators <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://lcamtuf.substack.com/p/ui-is-hell-four-function-calculators", "_blank");
+        
+      },
+    },{id: "post-weierstrass-39-s-monster",
+      
+        title: 'Weierstrass&#39;s Monster <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://www.quantamagazine.org/the-jagged-monstrous-function-that-broke-calculus-20250123/", "_blank");
+        
+      },
+    },{id: "post-a-qr-code-that-sends-you-to-a-different-destination-lenticular-and-adversarial",
+      
+        title: 'A QR code that sends you to a different destination – lenticular and... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://mstdn.social/@isziaui/113874436953157913", "_blank");
+        
+      },
+    },{id: "post-disabling-zen-5-39-s-op-cache-and-exploring-its-clustered-decoder",
+      
+        title: 'Disabling Zen 5&#39;s Op Cache and Exploring Its Clustered Decoder <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://chipsandcheese.com/p/disabling-zen-5s-op-cache-and-exploring", "_blank");
+        
+      },
+    },{id: "post-surface-stable-fractal-dithering",
+      
+        title: 'Surface-Stable Fractal Dithering <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://github.com/runevision/Dither3D", "_blank");
+        
+      },
+    },{id: "post-susctl-cve-2024-54507-a-particularly-39-sus-39-sysctl-in-the-xnu-kernel",
+      
+        title: 'Susctl CVE-2024-54507: A particularly &#39;sus&#39; sysctl in the XNU kernel <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://jprx.io/cve-2024-54507/", "_blank");
+        
+      },
+    },{id: "post-building-a-medieval-castle-from-scratch",
+      
+        title: 'Building a Medieval Castle from Scratch <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://www.guedelon.fr/en/", "_blank");
+        
+      },
+    },{id: "post-llama-vim-local-llm-assisted-text-completion",
+      
+        title: 'Llama.vim – Local LLM-assisted text completion <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://github.com/ggml-org/llama.vim", "_blank");
+        
+      },
+    },{id: "post-operator-research-preview",
+      
+        title: 'Operator research preview <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://openai.com/index/introducing-operator/", "_blank");
+        
+      },
+    },{id: "post-thank-hn-my-bootstrapped-startup-got-acquired-today",
+      
+        title: 'Thank HN: My bootstrapped startup got acquired today <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://news.ycombinator.com/item?id=42806247", "_blank");
+        
+      },
+    },{id: "post-psychedelic-graphics-0-introduction",
+      
+        title: 'Psychedelic Graphics 0: Introduction <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://benpence.com/blog/post/psychedelic-graphics-0", "_blank");
+        
+      },
+    },{id: "post-hacking-subaru-tracking-and-controlling-cars-via-the-admin-panel",
+      
+        title: 'Hacking Subaru: Tracking and controlling cars via the admin panel <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://samcurry.net/hacking-subaru", "_blank");
+        
+      },
+    },{id: "post-show-hn-i-made-an-open-source-laptop-from-scratch",
+      
+        title: 'Show HN: I made an open-source laptop from scratch <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://www.byran.ee/posts/creation/", "_blank");
+        
+      },
+    },{id: "post-data-branching-for-batch-job-systems",
+      
+        title: 'Data Branching for Batch Job Systems <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://isaacjordan.me/blog/2025/01/data-branching-for-batch-job-systems", "_blank");
+        
+      },
+    },{id: "post-i-wrote-my-own-proper-programming-language-2020",
+      
+        title: 'I wrote my own “proper” programming language (2020) <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://mukulrathi.com/create-your-own-programming-language/intro-to-compiler/", "_blank");
+        
+      },
+    },{id: "post-coping-with-dumb-llms-using-classic-ml",
+      
+        title: 'Coping with dumb LLMs using classic ML <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://softwaredoug.com/blog/2025/01/21/llm-judge-decision-tree", "_blank");
+        
+      },
+    },{id: "post-tilde-my-llvm-alternative",
+      
+        title: 'Tilde, My LLVM Alternative <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://yasserarg.com/tb", "_blank");
+        
+      },
+    },{id: "post-a-cold-war-satellite-program-called-parcae-revolutionized-signals-intelligence",
+      
+        title: 'A Cold War Satellite Program Called Parcae Revolutionized Signals Intelligence <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://spectrum.ieee.org/reconnaissance-satellite", "_blank");
+        
+      },
+    },{id: "post-impact-of-low-temperatures-on-the-5nm-sram-array-size-and-performance",
+      
+        title: 'Impact of Low Temperatures on the 5nm SRAM Array Size and Performance <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://semiengineering.com/impact-of-extremely-low-temperatures-on-the-5nm-sram-array-size-and-performance/", "_blank");
+        
+      },
+    },{id: "post-the-most-mario-colors",
+      
+        title: 'The Most Mario Colors <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://lmnt.me/blog/the-most-mario-colors.html", "_blank");
+        
+      },
+    },{id: "post-magenta-nvim-an-ai-coding-assistant-plugin-for-neovim-focused-on-tool-use",
+      
+        title: 'Magenta.nvim – an AI coding assistant plugin for Neovim focused on tool use... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://github.com/dlants/magenta.nvim", "_blank");
+        
+      },
+    },{id: "post-the-importance-of-favicons-in-website-osint-research",
+      
+        title: 'The importance of favicons in website OSINT research <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://www.osintme.com/index.php/2025/01/20/the-importance-of-favicons-in-website-osint-research/", "_blank");
+        
+      },
+    },{id: "post-the-color-and-color-patterns-of-moths-and-butterflies-1897",
+      
+        title: 'The color and color-patterns of moths and butterflies (1897) <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://publicdomainreview.org/collection/mayer-color-patterns/", "_blank");
+        
+      },
+    },{id: "post-masters-of-allusion-the-art-of-poetic-reference",
+      
+        title: 'Masters of Allusion: The Art of Poetic Reference <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://www.nytimes.com/2025/01/16/books/review/on-poetry-allusions-and-quotations.html", "_blank");
+        
+      },
+    },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
       
         title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
@@ -111,36 +441,16 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
             },},{id: "projects-cool-posts",
           title: 'Cool Posts',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/resources_project/";
+            },},{id: "projects-tweetoscope",
+          title: 'Tweetoscope',
+          description: "A project involving the creation of a distributed Tweetoscope using Kubernetes",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tweetoscope/";
             },},{
         id: 'social-email',
         title: 'email',
