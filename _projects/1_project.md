@@ -12,8 +12,6 @@ This one-pager was done during my last year at ESCP in market finance specializa
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    <object data="{{ '/assets/pdf/sovereign_fund.pdf' | relative_url }}" type="application/pdf" width="100%" height="500px">
-      <p>Your browser doesn't support PDF viewing. <a href="{{ '/assets/pdf/sovereign_fund.pdf' | relative_url }}">Download PDF</a></p>
-    </object>
+    <embed src="{% link assets/pdf/sovereign_fund.pdf %}" type="application/pdf" width="100%" height="500px">
   </div>
 </div>
