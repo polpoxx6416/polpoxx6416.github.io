@@ -7,7 +7,7 @@ first_name: Paul
 middle_name:
 last_name: Brehat
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  If you want to get in touch for a project or whatever you want do not hesitate to write me an email !
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
@@ -121,6 +121,8 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
+  - name: Hacker News
+    rss_url: https://news.ycombinator.com/rss
   - name: medium.com
     rss_url: https://medium.com/@al-folio/feed
   - name: Google Blog
@@ -201,14 +203,14 @@ exclude:
   - readme_preview/
   - vendor
   - _bibliography
-  - _projects/3_projects.md
-  - _projects/4_projects.md
-  - _projects/2_projects.md
-  - _projects/5_projects.md
-  - _projects/6_projects.md
-  - _projects/7_projects.md
-  - _projects/8_projects.md
-  - _projects/9_projects.md
+  - _projects/3_project.md
+  - _projects/4_project.md
+  - _projects/2_project.md
+  - _projects/5_project.md
+  - _projects/6_project.md
+  - _projects/7_project.md
+  - _projects/8_project.md
+  - _projects/9_project.md
 
 keep_files:
   - CNAME

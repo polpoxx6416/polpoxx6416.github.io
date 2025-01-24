@@ -3,7 +3,7 @@ layout: page
 title: Sovereign Funds One Pager
 description:
 img: assets/img/sovereign_fund.jpeg
-importance: 1
+importance: 2
 category: work
 related_publications: false
 ---
