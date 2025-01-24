@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cool Resources
+title: Cool Posts
 description:
 img: assets/img/DP_Pokédex.png
 importance: 1

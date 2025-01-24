@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Sovereign Funds One Pager
 description:
 img: assets/img/sovereign_fund.jpeg
 importance: 1
