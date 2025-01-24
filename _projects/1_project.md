@@ -15,3 +15,11 @@ This one-pager was done during my last year at ESCP in market finance specializa
     <embed src="{% link assets/pdf/assets/pdf/one_pager_fonds_souverains.pdf %}" type="application/pdf" width="100%" height="500px">
   </div>
 </div>
+
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0">
+    <object data="{{ '/assets/pdf/one_pager_fonds_souverains.pdf' | relative_url }}" type="application/pdf" width="100%" height="500px">
+      <p>Your browser doesn't support PDF viewing. <a href="{{ '/assets/pdf/one_pager_fonds_souverains.pdf' | relative_url }}">Download PDF</a></p>
+    </object>
+  </div>
+</div>
