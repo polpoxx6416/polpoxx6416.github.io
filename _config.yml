@@ -211,6 +211,7 @@ exclude:
   - _projects/7_project.md
   - _projects/8_project.md
   - _projects/9_project.md
+  - _posts/_posts/2025-01-24-deepseek.md
 
 keep_files:
   - CNAME
