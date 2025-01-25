@@ -51,7 +51,205 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-new-book-sorting-algorithm-almost-reaches-perfection",
+            },{id: "post-crushing-jira-tickets-is-a-party-trick-not-a-path-to-impact",
+      
+        title: 'Crushing Jira tickets is a party trick, not a path to impact <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://www.seangoedecke.com/party-tricks/", "_blank");
+        
+      },
+    },{id: "post-39-never-seen-anything-like-this-39-nih-meetings-and-travel-halted-abruptly",
+      
+        title: '&#39;Never seen anything like this&#39; – NIH meetings and travel halted abruptly <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://www.nature.com/articles/d41586-025-00231-y", "_blank");
+        
+      },
+    },{id: "post-vic-20-elite",
+      
+        title: 'Vic-20 Elite <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://vic20elite.wordpress.com/", "_blank");
+        
+      },
+    },{id: "post-nuclear-proliferation-and-the-quot-nth-country-experiment-quot",
+      
+        title: 'Nuclear Proliferation and the &quot;Nth Country Experiment&quot; <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2025-01-23/nuclear-proliferation-and-nth-country-experiment", "_blank");
+        
+      },
+    },{id: "post-show-hn-lightpanda-an-open-source-headless-browser-in-zig",
+      
+        title: 'Show HN: Lightpanda, an open-source headless browser in Zig <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://github.com/lightpanda-io/browser", "_blank");
+        
+      },
+    },{id: "post-show-hn-onit-open-source-chatgpt-desktop-with-local-mode-claude-gemini",
+      
+        title: 'Show HN: Onit – open-source ChatGPT Desktop with local mode, Claude, Gemini <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://github.com/synth-inc/onit", "_blank");
+        
+      },
+    },{id: "post-legalyze-ai-review-medical-records-with-ai",
+      
+        title: 'Legalyze.ai: Review Medical Records with AI <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://www.legalyze.ai/", "_blank");
+        
+      },
+    },{id: "post-trying-out-zed-after-more-than-a-decade-of-vim-neovim",
+      
+        title: 'Trying out Zed after more than a decade of Vim/Neovim <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://sgoel.dev/posts/trying-out-zed-after-more-than-a-decade-of-vim-neovim/", "_blank");
+        
+      },
+    },{id: "post-the-past-present-and-future-of-ui-at-github",
+      
+        title: 'The past, present, and future of UI at GitHub <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://hawksley.org/2025/01/08/past-present-future-of-UI-at-github.html", "_blank");
+        
+      },
+    },{id: "post-a-very-chicago-gamble",
+      
+        title: 'A very Chicago gamble <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/", "_blank");
+        
+      },
+    },{id: "post-the-hidden-complexity-of-scaling-websockets",
+      
+        title: 'The hidden complexity of scaling WebSockets <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://composehq.com/blog/scaling-websockets-1-23-25", "_blank");
+        
+      },
+    },{id: "post-anatomy-of-a-formal-proof",
+      
+        title: 'Anatomy of a Formal Proof <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://www.ams.org/journals/notices/202502/noti3114/noti3114.html", "_blank");
+        
+      },
+    },{id: "post-subpixel-snake-video",
+      
+        title: 'Subpixel Snake [video] <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://www.youtube.com/watch?v=iDwganLjpW0", "_blank");
+        
+      },
+    },{id: "post-converge-yc-s23-is-hiring-engineer-2-in-nyc",
+      
+        title: 'Converge (YC S23) is hiring engineer #2 in NYC <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://jobs.gem.com/converge/am9icG9zdDreA6I3WJ4ZJ1Yx_WHS5zKP", "_blank");
+        
+      },
+    },{id: "post-a-webassembly-compiler-that-fits-in-a-tweet",
+      
+        title: 'A WebAssembly compiler that fits in a tweet <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://wasmgroundup.com/blog/wasm-compiler-in-a-tweet/", "_blank");
+        
+      },
+    },{id: "post-snowdrop-os-a-homebrew-operating-system-from-scratch-in-assembly-language",
+      
+        title: 'Snowdrop OS – a homebrew operating system from scratch, in assembly language <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("http://sebastianmihai.com/snowdrop/", "_blank");
+        
+      },
+    },{id: "post-wild-a-fast-linker-for-linux",
+      
+        title: 'Wild – A fast linker for Linux <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://github.com/davidlattimore/wild", "_blank");
+        
+      },
+    },{id: "post-cloud-virtualization-red-hat-aws-firecracker-and-ubicloud-internals",
+      
+        title: 'Cloud Virtualization: Red Hat, AWS Firecracker, and Ubicloud internals <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://www.ubicloud.com/blog/cloud-virtualization-red-hat-aws-firecracker-and-ubicloud-internals", "_blank");
+        
+      },
+    },{id: "post-new-book-sorting-algorithm-almost-reaches-perfection",
       
         title: 'New Book-Sorting Algorithm Almost Reaches Perfection <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
@@ -62,9 +260,9 @@ ninja.data = [{
           window.open("https://www.quantamagazine.org/new-book-sorting-algorithm-almost-reaches-perfection-20250124/", "_blank");
         
       },
-    },{id: "post-show-hn-cs16-css-css-library-based-on-cs-1-6-ui",
+    },{id: "post-show-hn-cs16-css-css-library-based-on-counter-strike-1-6-ui",
       
-        title: 'Show HN: Cs16.css – CSS library based on CS 1.6 UI <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        title: 'Show HN: Cs16.css – CSS library based on Counter Strike 1.6 UI <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
       description: "Comments",
       section: "Posts",
@@ -84,17 +282,6 @@ ninja.data = [{
           window.open("https://vpetersson.com/2025/01/22/how-i-use-home-assistant-in-2025.html", "_blank");
         
       },
-    },{id: "post-threlte-8",
-      
-        title: 'Threlte 8 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-      
-      description: "Comments",
-      section: "Posts",
-      handler: () => {
-        
-          window.open("https://threlte.xyz/blog/threlte-8", "_blank");
-        
-      },
     },{id: "post-every-system-is-a-log-avoiding-coordination-in-distributed-applications",
       
         title: 'Every System is a Log: Avoiding coordination in distributed applications <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
@@ -106,191 +293,92 @@ ninja.data = [{
           window.open("https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/", "_blank");
         
       },
-    },{id: "post-lightpanda-the-headless-browser-designed-for-ai-and-automation",
+    },{id: "post-clapping-music-for-two-flip-disc-displays",
       
-        title: 'Lightpanda: The headless browser designed for AI and automation <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        title: 'Clapping Music for two flip-disc displays <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
       description: "Comments",
       section: "Posts",
       handler: () => {
         
-          window.open("https://github.com/lightpanda-io/browser", "_blank");
+          window.open("https://hannahilea.com/blog/clapping-music-for-flip-disc-displays/", "_blank");
         
       },
-    },{id: "post-ui-is-hell-four-function-calculators",
+    },{id: "post-ask-hn-why-buy-domains-and-301-redirect-them-to-me",
       
-        title: 'UI is hell: four-function calculators <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        title: 'Ask HN: Why buy domains and 301 redirect them to me? <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
       description: "Comments",
       section: "Posts",
       handler: () => {
         
-          window.open("https://lcamtuf.substack.com/p/ui-is-hell-four-function-calculators", "_blank");
+          window.open("https://news.ycombinator.com/item?id=42812779", "_blank");
         
       },
-    },{id: "post-weierstrass-39-s-monster",
+    },{id: "post-a-phishing-attack-involving-g-co-google-39-s-url-shortener",
       
-        title: 'Weierstrass&#39;s Monster <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        title: 'A phishing attack involving g.co, Google&#39;s URL shortener <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
       description: "Comments",
       section: "Posts",
       handler: () => {
         
-          window.open("https://www.quantamagazine.org/the-jagged-monstrous-function-that-broke-calculus-20250123/", "_blank");
+          window.open("https://gist.github.com/zachlatta/f86317493654b550c689dc6509973aa4", "_blank");
         
       },
-    },{id: "post-a-qr-code-that-sends-you-to-a-different-destination-lenticular-and-adversarial",
+    },{id: "post-troubleshooting",
       
-        title: 'A QR code that sends you to a different destination – lenticular and... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        title: "Troubleshooting",
       
-      description: "Comments",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.open("https://mstdn.social/@isziaui/113874436953157913", "_blank");
+          window.location.href = "/blog/2025/troubleshooting/";
         
       },
-    },{id: "post-disabling-zen-5-39-s-op-cache-and-exploring-its-clustered-decoder",
+    },{id: "post-deepseek",
       
-        title: 'Disabling Zen 5&#39;s Op Cache and Exploring Its Clustered Decoder <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        title: "Deepseek",
       
-      description: "Comments",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.open("https://chipsandcheese.com/p/disabling-zen-5s-op-cache-and-exploring", "_blank");
+          window.location.href = "/blog/2025/deepseek/";
         
       },
-    },{id: "post-surface-stable-fractal-dithering",
+    },{id: "post-show-hn-trolling-sms-spammers-with-ollama",
       
-        title: 'Surface-Stable Fractal Dithering <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        title: 'Show HN: Trolling SMS spammers with Ollama <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
       description: "Comments",
       section: "Posts",
       handler: () => {
         
-          window.open("https://github.com/runevision/Dither3D", "_blank");
+          window.open("https://evan.widloski.com/software/sms_llm/", "_blank");
         
       },
-    },{id: "post-susctl-cve-2024-54507-a-particularly-39-sus-39-sysctl-in-the-xnu-kernel",
+    },{id: "post-her-dad-the-10k-records-he-left-behind-and-a-viral-lesson-in-grief",
       
-        title: 'Susctl CVE-2024-54507: A particularly &#39;sus&#39; sysctl in the XNU kernel <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        title: 'Her dad, the 10k records he left behind and a viral lesson in... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
       description: "Comments",
       section: "Posts",
       handler: () => {
         
-          window.open("https://jprx.io/cve-2024-54507/", "_blank");
+          window.open("https://www.washingtonpost.com/style/2025/01/18/vinyl-albums-grief-music-healing/", "_blank");
         
       },
-    },{id: "post-building-a-medieval-castle-from-scratch",
+    },{id: "post-urban-legend-i-think-there-is-a-world-market-for-maybe-five-computers",
       
-        title: 'Building a Medieval Castle from Scratch <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-      
-      description: "Comments",
-      section: "Posts",
-      handler: () => {
-        
-          window.open("https://www.guedelon.fr/en/", "_blank");
-        
-      },
-    },{id: "post-llama-vim-local-llm-assisted-text-completion",
-      
-        title: 'Llama.vim – Local LLM-assisted text completion <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        title: 'Urban legend: I think there is a world market for maybe five computers... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
       description: "Comments",
       section: "Posts",
       handler: () => {
         
-          window.open("https://github.com/ggml-org/llama.vim", "_blank");
-        
-      },
-    },{id: "post-operator-research-preview",
-      
-        title: 'Operator research preview <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-      
-      description: "Comments",
-      section: "Posts",
-      handler: () => {
-        
-          window.open("https://openai.com/index/introducing-operator/", "_blank");
-        
-      },
-    },{id: "post-thank-hn-my-bootstrapped-startup-got-acquired-today",
-      
-        title: 'Thank HN: My bootstrapped startup got acquired today <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-      
-      description: "Comments",
-      section: "Posts",
-      handler: () => {
-        
-          window.open("https://news.ycombinator.com/item?id=42806247", "_blank");
-        
-      },
-    },{id: "post-psychedelic-graphics-0-introduction",
-      
-        title: 'Psychedelic Graphics 0: Introduction <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-      
-      description: "Comments",
-      section: "Posts",
-      handler: () => {
-        
-          window.open("https://benpence.com/blog/post/psychedelic-graphics-0", "_blank");
-        
-      },
-    },{id: "post-hacking-subaru-tracking-and-controlling-cars-via-the-admin-panel",
-      
-        title: 'Hacking Subaru: Tracking and controlling cars via the admin panel <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-      
-      description: "Comments",
-      section: "Posts",
-      handler: () => {
-        
-          window.open("https://samcurry.net/hacking-subaru", "_blank");
-        
-      },
-    },{id: "post-show-hn-i-made-an-open-source-laptop-from-scratch",
-      
-        title: 'Show HN: I made an open-source laptop from scratch <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-      
-      description: "Comments",
-      section: "Posts",
-      handler: () => {
-        
-          window.open("https://www.byran.ee/posts/creation/", "_blank");
-        
-      },
-    },{id: "post-data-branching-for-batch-job-systems",
-      
-        title: 'Data Branching for Batch Job Systems <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-      
-      description: "Comments",
-      section: "Posts",
-      handler: () => {
-        
-          window.open("https://isaacjordan.me/blog/2025/01/data-branching-for-batch-job-systems", "_blank");
-        
-      },
-    },{id: "post-i-wrote-my-own-proper-programming-language-2020",
-      
-        title: 'I wrote my own “proper” programming language (2020) <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-      
-      description: "Comments",
-      section: "Posts",
-      handler: () => {
-        
-          window.open("https://mukulrathi.com/create-your-own-programming-language/intro-to-compiler/", "_blank");
-        
-      },
-    },{id: "post-coping-with-dumb-llms-using-classic-ml",
-      
-        title: 'Coping with dumb LLMs using classic ML <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-      
-      description: "Comments",
-      section: "Posts",
-      handler: () => {
-        
-          window.open("https://softwaredoug.com/blog/2025/01/21/llm-judge-decision-tree", "_blank");
+          window.open("https://geekhistory.com/content/urban-legend-i-think-there-world-market-maybe-five-computers", "_blank");
         
       },
     },{id: "post-tilde-my-llvm-alternative",
@@ -304,81 +392,15 @@ ninja.data = [{
           window.open("https://yasserarg.com/tb", "_blank");
         
       },
-    },{id: "post-a-cold-war-satellite-program-called-parcae-revolutionized-signals-intelligence",
+    },{id: "post-how-to-visualize-your-python-project-39-s-dependency-graph",
       
-        title: 'A Cold War Satellite Program Called Parcae Revolutionized Signals Intelligence <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-      
-      description: "Comments",
-      section: "Posts",
-      handler: () => {
-        
-          window.open("https://spectrum.ieee.org/reconnaissance-satellite", "_blank");
-        
-      },
-    },{id: "post-impact-of-low-temperatures-on-the-5nm-sram-array-size-and-performance",
-      
-        title: 'Impact of Low Temperatures on the 5nm SRAM Array Size and Performance <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        title: 'How to Visualize Your Python Project&#39;s Dependency Graph <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
       description: "Comments",
       section: "Posts",
       handler: () => {
         
-          window.open("https://semiengineering.com/impact-of-extremely-low-temperatures-on-the-5nm-sram-array-size-and-performance/", "_blank");
-        
-      },
-    },{id: "post-the-most-mario-colors",
-      
-        title: 'The Most Mario Colors <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-      
-      description: "Comments",
-      section: "Posts",
-      handler: () => {
-        
-          window.open("https://lmnt.me/blog/the-most-mario-colors.html", "_blank");
-        
-      },
-    },{id: "post-magenta-nvim-an-ai-coding-assistant-plugin-for-neovim-focused-on-tool-use",
-      
-        title: 'Magenta.nvim – an AI coding assistant plugin for Neovim focused on tool use... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-      
-      description: "Comments",
-      section: "Posts",
-      handler: () => {
-        
-          window.open("https://github.com/dlants/magenta.nvim", "_blank");
-        
-      },
-    },{id: "post-the-importance-of-favicons-in-website-osint-research",
-      
-        title: 'The importance of favicons in website OSINT research <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-      
-      description: "Comments",
-      section: "Posts",
-      handler: () => {
-        
-          window.open("https://www.osintme.com/index.php/2025/01/20/the-importance-of-favicons-in-website-osint-research/", "_blank");
-        
-      },
-    },{id: "post-the-color-and-color-patterns-of-moths-and-butterflies-1897",
-      
-        title: 'The color and color-patterns of moths and butterflies (1897) <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-      
-      description: "Comments",
-      section: "Posts",
-      handler: () => {
-        
-          window.open("https://publicdomainreview.org/collection/mayer-color-patterns/", "_blank");
-        
-      },
-    },{id: "post-masters-of-allusion-the-art-of-poetic-reference",
-      
-        title: 'Masters of Allusion: The Art of Poetic Reference <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-      
-      description: "Comments",
-      section: "Posts",
-      handler: () => {
-        
-          window.open("https://www.nytimes.com/2025/01/16/books/review/on-poetry-allusions-and-quotations.html", "_blank");
+          window.open("https://www.gauge.sh/blog/how-to-visualize-your-python-projects-dependency-graph", "_blank");
         
       },
     },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
