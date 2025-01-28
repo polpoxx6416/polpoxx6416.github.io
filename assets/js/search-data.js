@@ -51,7 +51,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-troobleshooting-wifi-on-linux",
+            },{id: "post-understanding-deep-learning",
+      
+        title: "Understanding Deep Learning",
+      
+      description: "Book of Simon J. D. Prince about deep learning",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/understand-deep-learning/";
+        
+      },
+    },{id: "post-troobleshooting-wifi-on-linux",
       
         title: "Troobleshooting Wifi on Linux",
       
