@@ -4,7 +4,7 @@ title: Troobleshooting Wifi on Linux
 date: 2025-01-24
 description: Troubleshooting my wifi issues with NetworkManager
 tags: code
-categories: tuto
+categories:
 featured: true
 ---
 
@@ -49,5 +49,5 @@ nmcli connection up "mybox" #cli connection
 
 ## GOOD RESOURCE
 
-- https://www.dedoimedo.com/computers/linux-nm-ipv6-disable.html
-- https://www.dedoimedo.com/greatest_sites.html
+- [dedoimedo article about ipv6](https://www.dedoimedo.com/computers/linux-nm-ipv6-disable.html)
+- [dedoimedo list of cool stuff](https://www.dedoimedo.com/greatest_sites.html)
