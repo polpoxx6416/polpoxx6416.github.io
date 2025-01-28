@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sovereign Funds One Pager
-description:
+description: One pager about sovereign funds
 img: assets/img/sovereign_fund.jpeg
 importance: 2
 category: work
