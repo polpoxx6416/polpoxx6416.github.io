@@ -152,7 +152,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-sovereign-funds-one-pager",
           title: 'Sovereign Funds One Pager',
-          description: "",
+          description: "One pager about sovereign funds",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-cool-posts",
