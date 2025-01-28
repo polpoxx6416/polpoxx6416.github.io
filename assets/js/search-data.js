@@ -25,14 +25,14 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          description: "Some Repositories",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "My CV actualized in january 2025",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -62,11 +62,11 @@ ninja.data = [{
           window.location.href = "/blog/2025/troubleshooting/";
         
       },
-    },{id: "post-deepseek",
+    },{id: "post-deepseek-dimmensionning-to-run-locally",
       
-        title: "Deepseek",
+        title: "Deepseek dimmensionning to run locally",
       
-      description: "",
+      description: "A quick guide about dimmensionning resources to run deepseek locally",
       section: "Posts",
       handler: () => {
         
