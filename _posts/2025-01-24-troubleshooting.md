@@ -1,3 +1,13 @@
+---
+layout: post
+title: Troobleshooting Wifi on Linux
+date: 2025-01-24
+description: Troubleshooting my wifi issues with NetworkManager
+tags: code
+categories: tuto
+featured: true
+---
+
 # Troobleshooting Wifi on Linux
 
 My system is a dual boot btw Debian and my network manager is NetworkManager.
