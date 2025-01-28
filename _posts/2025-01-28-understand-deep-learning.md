@@ -3,8 +3,8 @@ layout: post
 title: Understanding Deep Learning
 date: 2025-01-28
 description: Book of Simon J. D. Prince about deep learning
-tags: ml resource
-categories: tuto
+tags: ml
+categories:
 featured: true
 ---
 
