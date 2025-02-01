@@ -51,7 +51,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-understanding-deep-learning",
+            },{id: "post-a-first-journey-in-the-land-of-ai-explainity",
+      
+        title: "A first journey in the land of AI explainity",
+      
+      description: "TPs given at CentraleSupelec by two Researchers from CEA",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/explainability-ai/";
+        
+      },
+    },{id: "post-understanding-deep-learning",
       
         title: "Understanding Deep Learning",
       
@@ -93,6 +104,17 @@ ninja.data = [{
       handler: () => {
         
           window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
+        
+      },
+    },{id: "post-a-distill-style-blog-post",
+      
+        title: "a distill-style blog post",
+      
+      description: "an example of a distill-style blog post and main elements",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/distill-template/";
         
       },
     },{id: "post-a-post-with-a-notebook",
