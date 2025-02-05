@@ -211,6 +211,7 @@ exclude:
   - _projects/7_project.md
   - _projects/8_project.md
   - _projects/9_project.md
+  - _posts/2025-02-04-orientation-post-bac.md
 
 keep_files:
   - CNAME
