@@ -62,6 +62,17 @@ ninja.data = [{
           window.location.href = "/blog/2025/rl-overview/";
         
       },
+    },{id: "post-git-reminder",
+      
+        title: "Git Reminder",
+      
+      description: "A good git tutorial and some command that may be useful",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/git-reminder/";
+        
+      },
     },{id: "post-a-first-journey-in-the-land-of-ai-explainity",
       
         title: "A first journey in the land of AI explainity",
