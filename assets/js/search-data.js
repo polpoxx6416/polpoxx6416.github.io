@@ -51,7 +51,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-first-journey-in-the-land-of-ai-explainity",
+            },{id: "post-rl-overview",
+      
+        title: "RL Overview",
+      
+      description: "Article from Kevin P. Murphy (1st on HN)",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/rl-overview/";
+        
+      },
+    },{id: "post-a-first-journey-in-the-land-of-ai-explainity",
       
         title: "A first journey in the land of AI explainity",
       
