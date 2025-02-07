@@ -129,6 +129,8 @@ external_sources:
     posts:
       - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
         published_date: 2024-05-14
+  - name: Izisse's Blog
+    rss_url: https://blog.izissise.net/atom.xml
 
 # -----------------------------------------------------------------------------
 # Newsletter
