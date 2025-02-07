@@ -117,6 +117,72 @@ ninja.data = [{
           window.location.href = "/blog/2025/deepseek/";
         
       },
+    },{id: "post-nginx-explorer-cookie-authentication",
+      
+        title: "Nginx Explorer - Cookie Authentication",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/posts/ngxp-cookie-auth/";
+        
+      },
+    },{id: "post-nginx-explorer-file-listing",
+      
+        title: "Nginx Explorer - File listing",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/posts/ngxp-listing/";
+        
+      },
+    },{id: "post-modern-path-environment-variable",
+      
+        title: "Modern PATH environment variable",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/posts/env-path/";
+        
+      },
+    },{id: "post-git-config",
+      
+        title: "Git Config",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/posts/gitconfig/";
+        
+      },
+    },{id: "post-unified-kernel-image",
+      
+        title: "Unified Kernel Image",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/posts/uki/";
+        
+      },
+    },{id: "post-edk2-boot-0000",
+      
+        title: "Edk2 Boot 0000",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/posts/edk2boot0000/";
+        
+      },
     },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
       
         title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
@@ -126,6 +192,61 @@ ninja.data = [{
       handler: () => {
         
           window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
+        
+      },
+    },{id: "post-qemu-ipv6-slirp",
+      
+        title: "Qemu IPv6 Slirp",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/posts/qemuipv6slirp/";
+        
+      },
+    },{id: "post-snap-2-flatpak",
+      
+        title: "Snap 2 Flatpak",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/posts/snap2flatpak/";
+        
+      },
+    },{id: "post-binary-patching-kwin-for-3-finger-overview-gesture",
+      
+        title: "Binary Patching KWin for 3-Finger Overview Gesture",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/posts/kwin-gesture-patch/";
+        
+      },
+    },{id: "post-video-motion",
+      
+        title: "Video motion",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/posts/vidmotion/";
+        
+      },
+    },{id: "post-initramfs",
+      
+        title: "Initramfs",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/posts/initramfs/";
         
       },
     },{id: "post-a-distill-style-blog-post",
@@ -159,6 +280,39 @@ ninja.data = [{
       handler: () => {
         
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
+        
+      },
+    },{id: "post-parallel-bash-function-call",
+      
+        title: "Parallel bash function call",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/posts/parallel_and_bash_function/";
+        
+      },
+    },{id: "post-remote-bash-function-with-ssh",
+      
+        title: "Remote bash function with ssh",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/posts/remote_bash_func_ssh/";
+        
+      },
+    },{id: "post-network-manager-connection-action",
+      
+        title: "Network manager connection action",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/posts/network-manager-connection-action/";
         
       },
     },{id: "post-odd-even-file-partitionning-using-sed-and-awk",
