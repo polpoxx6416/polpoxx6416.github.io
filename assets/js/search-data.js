@@ -70,6 +70,17 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
+          window.location.href = "/blog/2025/azure-vm-ssh/";
+        
+      },
+    },{id: "post-git-reminder",
+      
+        title: "Git Reminder",
+      
+      description: "A good git tutorial and some command that may be useful",
+      section: "Posts",
+      handler: () => {
+        
           window.location.href = "/blog/2025/git-reminder/";
         
       },
