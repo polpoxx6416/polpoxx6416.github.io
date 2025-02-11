@@ -51,7 +51,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-rl-overview",
+            },{id: "post-azure-vm-troubleshooting",
+      
+        title: "Azure Vm troubleshooting",
+      
+      description: "Installing azure cli and running commands inside vm",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/azure-vm-ssh/";
+        
+      },
+    },{id: "post-rl-overview",
       
         title: "RL Overview",
       
@@ -60,17 +71,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2025/rl-overview/";
-        
-      },
-    },{id: "post-git-reminder",
-      
-        title: "Git Reminder",
-      
-      description: "A good git tutorial and some command that may be useful",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/azure-vm-ssh/";
         
       },
     },{id: "post-git-reminder",
