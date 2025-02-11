@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Git Reminder
-date: 2025-02-01
-description: A good git tutorial and some command that may be useful
-tags: formatting
+title: Azure Vm troubleshooting
+date: 2025-02-11
+description: Installing azure cli and running commands inside vm
+tags: code
 categories:
 featured: true
 ---
 
-Ok today I wanted to connect myself to my azure vm running debian bookworm but I have ssh hardened it following [this]() very good tutorial.
+Ok today I wanted to connect myself to my azure vm running debian bookworm but I have ssh hardened it following [this](https://becomesovran.com/blog/server-setup-basics.html) very good tutorial.
 The issue is that I have a brand new computer and I've reset the previous one... And yes I have lost my ssh key to connect to my vm... Thus I have to find a way to add a new ssh public key so that I connect myself with my new computer.
 
 I have installed azure cli instead of using the webportal and now I have to execute a command inside the vm.
