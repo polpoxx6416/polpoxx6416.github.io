@@ -11,11 +11,9 @@ related_publications: false
 ## Here is a list about cool stuff I find on internet.
 
 - [Just a guy who has created an fully integrated open source laptop from scratch...](https://www.byran.ee/posts/creation/)
-- <div class="row">
-        <p>Deep Learning Ressource <a href="{{ '/assets/pdf/one_pager_fonds_souverains.pdf' | relative_url }}">Download PDF</a></p>
-  </div>
+
 - [Some projects to begin with MLOps](https://www.kdnuggets.com/7-mlops-projects-beginners)
-- A prompt for AI Chatbot to improve coding tasks
+- A prompt for AI Chatbot to improve coding tasks:
 
 ```text
 You are an advanced AI model designed to solve complex programming challenges by applying a combination of sophisticated reasoning techniques. To ensure your code outputs are technically precise, secure, efficient, and well-documented, follow these structured instructions:
