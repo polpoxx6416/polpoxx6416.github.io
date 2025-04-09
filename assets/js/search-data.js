@@ -51,7 +51,29 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-azure-vm-troubleshooting",
+            },{id: "post-nvidia-driver-dependency-conflict-incident-report",
+      
+        title: "NVIDIA Driver Dependency Conflict Incident Report",
+      
+      description: "Conflict of different versions of NVIDIA driver packages with multiple repository sources (Debian official and NVIDIA CUDA)",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/nvidia-drivers-issue/";
+        
+      },
+    },{id: "post-nginx-explorer-upload",
+      
+        title: "Nginx Explorer - Upload",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/posts/ngxp-upload/";
+        
+      },
+    },{id: "post-azure-vm-troubleshooting",
       
         title: "Azure Vm troubleshooting",
       
