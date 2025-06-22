@@ -17,6 +17,7 @@ A dependency conflict occurred when attempting to install NVIDIA drivers on a De
 ## Root Cause
 
 1. The system had two competing package sources:
+
    - Official Debian repository: nvidia-driver version 535.216.01-1~deb12u1
    - NVIDIA CUDA repository: nvidia-driver versions up to 570.124.06-1
 
@@ -60,6 +61,7 @@ sudo apt install cuda-toolkit
 2. **Driver-CUDA Compatibility**: NVIDIA drivers and CUDA toolkit versions must be compatible. Installing them from separate repositories can lead to version mismatches.
 
 3. **Diagnostic Commands**: The following commands were essential for diagnosing the issue:
+
    ```bash
    apt-cache policy nvidia-driver
    apt-cache madison nvidia-driver

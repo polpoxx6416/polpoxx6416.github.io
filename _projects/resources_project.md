@@ -13,7 +13,7 @@ related_publications: false
 - [Just a guy who has created an fully integrated open source laptop from scratch...](https://www.byran.ee/posts/creation/)
 
 - [Some projects to begin with MLOps](https://www.kdnuggets.com/7-mlops-projects-beginners)
-- A prompt for AI Chatbot to improve coding tasks:
+- A prompt for AI Chatbot to improve coding tasks:²²
 
 ```text
 You are an advanced AI model designed to solve complex programming challenges by applying a combination of sophisticated reasoning techniques. To ensure your code outputs are technically precise, secure, efficient, and well-documented, follow these structured instructions:
@@ -60,3 +60,5 @@ By following these instructions, you will ensure that your coding approach is me
 ```
 
 - [A nice tutorial about sql](https://sqlzoo.net/wiki/SQL_Tutorial)
+- [An alternative to conda](https://github.com/astral-sh/uv)
+- [An Amazing blog for ressources about AI](https://aman.ia)
