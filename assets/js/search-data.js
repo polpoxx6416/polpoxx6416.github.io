@@ -51,7 +51,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-nvidia-driver-dependency-conflict-incident-report",
+            },{id: "post-pkmn-project",
+      
+        title: "PKMN project",
+      
+      description: "A program to make wild pokemons appear in your terminal !",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/pkmn/";
+        
+      },
+    },{id: "post-nvidia-driver-dependency-conflict-incident-report",
       
         title: "NVIDIA Driver Dependency Conflict Incident Report",
       
